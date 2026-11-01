@@ -25,7 +25,7 @@ A RESTful API built with Node.js and Express.js to manage tasks using CRUD opera
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone " https://github.com/MuskanAzeem01/express-tasks-api.git"
 ```
 
 ### 2. Navigate to the Project Folder
